@@ -37,6 +37,40 @@ https://ythlsgo.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2844", TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1,037 - Discovery Home & Health
+http://161.132.108.75:50001/play/a00r/index.m3u8
+#EXTINF:-1,038 - HGTV HD
+http://161.132.108.75:50001/play/a036/index.m3u8
+#EXTINF:-1,039 - Travelxp HD
+http://161.132.108.75:50001/play/a037/index.m3u8
+#EXTINF:-1,040 - Food Network HD
+http://161.132.108.75:50001/play/a01k/index.m3u8
+#EXTINF:-1,041 - El Gourmet HD
+http://161.132.108.75:50001/play/a00o/index.m3u8
+#EXTINF:-1,042 - Sun Channel HD
+http://161.132.108.75:50001/play/a00p/index.m3u8
+#EXTINF:-1,045 - Love Nature HD
+http://161.132.108.75:50001/play/a01p/index.m3u8
+#EXTINF:-1,046 - Nat Geo HD
+http://161.132.108.75:50001/play/a010/index.m3u8
+#EXTINF:-1,047 - History HD
+http://161.132.108.75:50001/play/a003/index.m3u8
+#EXTINF:-1,048 - History 2 HD
+http://161.132.108.75:50001/play/a01w/index.m3u8
+#EXTINF:-1,049 - Animal Planet HD
+http://161.132.108.75:50001/play/a01e/index.m3u8
+#EXTINF:-1,050 - Discovery Channel HD
+http://161.132.108.75:50001/play/a01v/index.m3u8
+#EXTINF:-1,051 - Discovery World HD
+http://161.132.108.75:50001/play/a011/index.m3u8
+#EXTINF:-1,052 - Discovery Theater HD
+http://161.132.108.75:50001/play/a00s/index.m3u8
+#EXTINF:-1,053 - Discovery ID HD
+http://161.132.108.75:50001/play/a00n/index.m3u8
+#EXTINF:-1,054 - Discovery Turbo HD
+http://161.132.108.75:50001/play/a038/index.m3u8
+#EXTINF:-1,055 - Discovery Science HD
+http://161.132.108.75:50001/play/a039/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="http://television.com.ar/wp-content/uploads/2020/10/IP-Informaci%C3%B3nPeriodistica-561x400.jpg", IP Noticias
 https://youtu.be/IxQ2-6Y4y9w
 #EXTINF:0 type="stream" channelId="-1" logo="https://eroteve.com/wp-content/uploads/2017/02/889a5b74b3460b80dc9ac6e1c1744fb5.jpeg", Nuart HD
